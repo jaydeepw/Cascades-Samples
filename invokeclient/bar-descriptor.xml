@@ -88,7 +88,6 @@
 
     <!--  The icon for the application, which should be 86x86. -->
 
-    <asset path="assets">assets</asset>
     <!--  The splash screen that will appear when your application is launching. Should be 1024x600. -->
     <!-- <splashscreen></splashscreen> -->
 

@@ -77,7 +77,7 @@ void PostHttp::post(const QString &body)
  */
 void PostHttp::onGetReply()
 {
-    QNetworkReply* reply = qobject_cast<QNetworkReply*>(sender());
+    QNetworkReply* reply = qobject_cast<QNetworkReply*>( sender() );
 
     QString response;
     if (reply) {

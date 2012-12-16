@@ -65,11 +65,11 @@
     <!--  The category where the application appears. Either core.games or core.media. -->
     <category>core.games</category>
     <splashScreens>
-       <image>splash-768x1280.png</image>
-       <image>splash-720x720.png</image>
+       <image></image>
+       <image></image>
     </splashScreens>
     <icon>
-       <image>PushCollector-icon.png</image>
+       <image></image>
     </icon>
     <configuration id="com.qnx.qcc.toolChain.1276861451" name="Default">
        <platformArchitecture>armle-v7</platformArchitecture>
@@ -90,15 +90,11 @@
        <asset path="x86/o-g/pushCollector" entry="true" type="Qnx/Elf">pushCollector</asset>
     </configuration>
 
-    <asset path="assets">assets</asset>
 
     <!-- Locale support -->
     <asset path="translations" dest="qm">
         <include name="*.qm"/>
     </asset>
-    <asset path="assets/images/PushCollector-icon.png">PushCollector-icon.png</asset>
-    <asset path="assets/images/splash-768x1280.png">splash-768x1280.png</asset>
-    <asset path="assets/images/splash-720x720.png">splash-720x720.png</asset>
 
     <!-- Request permission to execute native code.  Required for native applications. -->
     <permission system="true">run_native</permission>

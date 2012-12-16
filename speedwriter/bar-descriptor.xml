@@ -70,7 +70,6 @@
     <!-- Application assets -->
     <asset path="splashscreen.jpg">splashscreen.jpg</asset>
     <asset path="icon.png">icon.png</asset>
-    <asset path="assets">assets</asset>
 
     <!-- Request permission to execute native code.  Required for native applications. -->
     <permission system="true">run_native</permission>

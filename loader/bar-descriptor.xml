@@ -72,7 +72,6 @@
     </icon>
 
     <asset path="icon.png">icon.png</asset>
-    <asset path="assets">assets</asset>
     <!--  The splash screen that will appear when your application is launching. Should be 1024x600. -->
     <!-- <splashscreen></splashscreen> -->
 

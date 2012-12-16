@@ -68,7 +68,6 @@
     <!-- Application assets -->
     <!-- <asset path="splash.png">splash.png</asset>-->
     <asset path="icon.png">icon.png</asset>
-    <asset path="assets">assets</asset>
 
     <!-- Locale support -->
     <asset path="translations" dest="qm">

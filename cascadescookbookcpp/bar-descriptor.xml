@@ -69,7 +69,6 @@
 
     <!-- Application assets -->
     <asset path="icon.png">icon.png</asset>
-    <asset path="assets">assets</asset>
     <asset path="splash.png">splash.png</asset>
 
 	<!-- Bright theme is used for the Cookbook --> 

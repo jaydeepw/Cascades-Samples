@@ -92,7 +92,6 @@
 
     <asset path="icon.png">icon.png</asset>
 
-    <asset path="assets">assets</asset>
 
     <!-- Locale support -->
 

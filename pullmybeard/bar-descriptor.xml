@@ -70,7 +70,6 @@
 
     <!-- Application assets -->
     <asset path="icon.png">icon.png</asset>
-    <asset path="assets">assets</asset>    
     <asset path="splash.png">splash.png</asset>
     
     <!-- Request permission to execute native code.  Required for native applications. -->

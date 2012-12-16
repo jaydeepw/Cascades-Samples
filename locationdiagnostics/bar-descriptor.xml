@@ -91,7 +91,6 @@
 
     <!--  The icon for the application, which should be 86x86. -->
 
-    <asset path="assets">assets</asset>
     <!--  The splash screen that will appear when your application is launching. Should be 1024x600. -->
     <!-- <splashscreen></splashscreen> -->
 
@@ -99,10 +98,6 @@
     <asset path="translations" dest="qm">
         <include name="*.qm"/>
     </asset>
-    <asset path="assets/images/compass_base.png">compass_base.png</asset>
-    <asset path="assets/images/compass_pointer.png">compass_pointer.png</asset>
-    <asset path="assets/images/track.png">track.png</asset>
-    <asset path="assets/images/pin.png">pin.png</asset>
     <asset path="icon.png">icon.png</asset>
 
     <!-- Request permission to execute native code.  Required for native applications. -->

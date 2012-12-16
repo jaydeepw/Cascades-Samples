@@ -68,7 +68,7 @@
     <!--  The category where the application appears. Either core.games or core.media. -->
     <category>core.games</category>
     <icon>
-       <image>assets/images/rotation3d.png</image>
+       <image></image>
     </icon>
     <configuration id="com.qnx.qcc.toolChain.1914788226" name="Default">
        <platformArchitecture>armle-v7</platformArchitecture>
@@ -91,7 +91,6 @@
 
     <!--  The icon for the application, which should be 86x86. -->
 
-    <asset path="assets">assets</asset>
 
     <!-- Locale support -->
     <asset path="translations" dest="qm">
